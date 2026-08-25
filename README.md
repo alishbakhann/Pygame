@@ -146,6 +146,10 @@ Some features that could be added:
 *Alishba Khan*
 
 Built as a Python/Pygame game project.
-*Sadia Peerzada*
+
+
+
+
+
 
 Built as a Python/Pygame game project.
