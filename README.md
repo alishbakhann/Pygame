@@ -145,7 +145,7 @@ Some features that could be added:
 
 *Alishba Khan*
 
-Built as a Python/Pygame game project.
+
 
 
 
